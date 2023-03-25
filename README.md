@@ -1,6 +1,6 @@
 # Printer
 
-How would type safe formatted printing would look in C, if it had no compiler support?
+How could type safe formatted printing look in C, if it had no compiler support?
 
 It might look something like this:
 
